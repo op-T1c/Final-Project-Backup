@@ -1,0 +1,122 @@
+#Br{	
+	position: fixed;
+    top: 0%;
+    left: 0%;
+	background-color: #417240;
+	width: 100%; 
+	height: 8%;
+    z-index: 10;
+}
+
+h1{
+    color: #ffffff;
+	text-shadow: 2px 2px 0px #000000;
+    font-style: impact;
+}
+
+p{
+    color: #ffffff;
+	text-shadow: 2px 2px 0px #000000;
+    font-size: 20px;
+}
+
+a{
+    color: #ffffff;
+	text-shadow: 2px 2px 0px #000000;
+    text-decoration: none;
+}
+
+#sitetitle{
+    position: inherit;
+    left: 3%;
+}
+
+#mainpage{
+    position: relative;
+    text-align: center;
+    top: 14%;
+}
+
+#Side {
+    line-height: 0.7;
+    background-color: #417240;
+    border-radius: 30px;
+    height: 70px;
+    width: 80px;
+    padding: 40px;
+    position: fixed;
+    top: 200px;
+    left: 1120px;
+}
+#linkbox{
+    position: relative;
+    top: 10%;
+    left: 6%;
+    width: 65%;
+    height: 1000%;
+    background-color: #417240;
+    padding: 5%;
+    border-radius: 10px;
+}
+
+#logsin{
+    position: absolute;
+    top: 10%;
+    left: 1125px;
+}
+
+#log{
+    background-color: #417240;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 25px;
+}
+
+#sing{
+    background-color: #417240;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 25px;
+}
+
+
+#A{
+    position: relative;
+    top: 10%;
+}
+
+#B{
+    position: relative;
+    top: 40%;
+}
+
+#C{
+    position: relative;
+    top: 60%;
+}
+
+#D{
+    position: relative;
+    top: 80%;
+}
+
+#AA{
+    position: relative;
+    top: 10%;
+}
+
+#BB{
+    position: relative;
+    top: 40%;
+}
+
+#CC{
+    position: relative;
+    top: 60%;
+}
+
+#DD{
+    position: relative;
+    top: 80%;
+}
+
